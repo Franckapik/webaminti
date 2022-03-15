@@ -25,3 +25,5 @@ yarn-error.log*
 *.glb
 *.gltf
 *.blend
+*.svg
+*.png
