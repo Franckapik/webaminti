@@ -5,9 +5,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: aqua;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.App {
+  height : 100vh;
+}
+
+.titre {
+  color: pink;
+  right: 50%;
+  font-size: 1.5em ;
+  z-index: 1;
+  position:fixed
+}
+
+.calquedudessus {
+  z-index: 1;
+  position:absolute
+}
+
+.logo{
+  position:fixed;
+  width:5em
 }
